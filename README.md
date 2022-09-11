@@ -1,2 +1,2 @@
 # linguagemc
-Linguagem uma relação de amor e odio
+Linguagem C uma relação de amor e odio
