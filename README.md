@@ -1,5 +1,7 @@
 ## Estudos da Linguagem C e C++
 
+-- Project Status: [ On-Hold ]
+
 | Topico | Tema de Estudo |
 | ------- | ---- |
 | 01 | Programação Básica I e II |
